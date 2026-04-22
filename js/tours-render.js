@@ -28,7 +28,6 @@ function crearTarjetaTour(tour, index) {
   card.innerHTML = `
     <div class="tour-card__header" style="background: linear-gradient(140deg, ${tour.color}dd, ${tour.color}99);">
       <span class="tour-card__ruta-badge">Ruta ${tour.id}</span>
-      <span class="tour-card__emoji">${tour.emoji}</span>
       <h2 class="tour-card__nombre">${tour.nombre}</h2>
       <p class="tour-card__subtitulo">${tour.subtitulo}</p>
       <span class="tour-card__horario">⏱ ${tour.horario}</span>
