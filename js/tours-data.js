@@ -11,7 +11,7 @@ const TOURS = [
     horario: "8:30 am – 7:00 pm",
     precio: 500,
     descripcion: "Donde la naturaleza se convierte en piedra y maravilla.",
-    emoji: "🌊",
+    emoji: "",
     color: "#1a6eb5",
     lugares: [
       "Hierve el Agua",
@@ -33,7 +33,7 @@ const TOURS = [
     horario: "9:30 am – 5:30 pm",
     precio: 400,
     descripcion: "La grandeza zapoteca que domina los Valles Centrales.",
-    emoji: "🏛️",
+    emoji: "",
     color: "#c47a1e",
     lugares: [
       "Monte Albán",
@@ -53,7 +53,7 @@ const TOURS = [
     horario: "8:15 am – 8:00 pm",
     precio: 700,
     descripcion: "Aventura, tradición y cultura en lo alto de la sierra.",
-    emoji: "🏔️",
+    emoji: "",
     color: "#2d7a3a",
     lugares: [
       "Ixtlán de Juárez",
@@ -77,7 +77,7 @@ const TOURS = [
     horario: "8:15 am – 8:00 pm",
     precio: 700,
     descripcion: "Vive la mejor experiencia con nosotros entre cascadas y grutas.",
-    emoji: "💧",
+    emoji: "",
     color: "#1a8aa0",
     lugares: [
       "Peñas Gemelas",
@@ -96,7 +96,7 @@ const TOURS = [
     horario: "5:30 am – 10:00 pm",
     precio: 700,
     descripcion: "Sol, mar y maravillas naturales en la costa oaxaqueña.",
-    emoji: "🌊",
+    emoji: "",
     color: "#1a5eb5",
     lugares: [
       "Playa Carrizalillo",
@@ -118,7 +118,7 @@ const TOURS = [
     horario: "8:15 am – 9:00 pm",
     precio: 700,
     descripcion: "Aventura en las nubes con paisajes de ensueño.",
-    emoji: "🪂",
+    emoji: "",
     color: "#7a1ab5",
     lugares: [
       "Senderismo en la cumbre",
@@ -138,7 +138,7 @@ const TOURS = [
     horario: "8:15 am – 8:00 pm",
     precio: 700,
     descripcion: "Aventura, tradición y cultura en lo alto de la sierra.",
-    emoji: "🪨",
+    emoji: "",
     color: "#1a8a6e",
     lugares: [
       "Grutas de San Sebastián de las Grutas",
@@ -159,7 +159,7 @@ const TOURS = [
     horario: "9:30 am – 6:00 pm",
     precio: 700,
     descripcion: "Vive la magia de Oaxaca en cada artesanía.",
-    emoji: "🐉",
+    emoji: "",
     color: "#b51a5e",
     lugares: [
       "Barro Negro y Rojo",

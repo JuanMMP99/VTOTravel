@@ -3,7 +3,7 @@
 // ============================================================
 
 // ── Número de WhatsApp de VTO Travel (con código de país) ──
-const WHATSAPP_NUMERO = '529516889440'; // Ajusta si es necesario
+const WHATSAPP_NUMERO = '9514990142'; // Ajusta si es necesario
 
 // ── Estado actual del tour seleccionado ──
 let tourSeleccionado = null;
